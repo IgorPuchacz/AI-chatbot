@@ -1,0 +1,50 @@
+# ────────── PYTHON ──────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+
+# ────────── VENV / ŚRODOWISKO ──────────
+.venv/
+env/
+venv/
+ENV/
+*.env
+
+# ────────── IDE / PYCHARM ──────────
+.idea/
+
+# ────────── DATA / DB / CSV / MODELS ──────────
+*.db
+!database/faq.db
+*.sqlite3
+*.csv
+!database/Q&A base.csv
+models/
+*.tar.gz
+*.npy
+*.npz
+
+# ────────── LOGS AND TEMPS ──────────
+*.log
+*.tmp
+*.bak
+
+# ────────── TESTS ──────────
+htmlcov/
+.coverage
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+test_output/
+
+# ────────── SYSTEM ──────────
+.DS_Store
+Thumbs.db
+
+# ────────── CREDENTIALS ──────────
+credentials.yml

@@ -1,0 +1,8 @@
+flask-ngrok==0.0.25
+rasa==3.6.21
+rasa-sdk==3.6.2
+twilio==8.2.2
+
+numpy~=1.23.5
+sentence-transformers~=4.1.0
+scikit-learn~=1.1.0

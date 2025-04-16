@@ -1,0 +1,44 @@
+{
+  "text": {
+    "hejky": 7,
+    "witać": 15,
+    "cześć": 2,
+    "co": 1,
+    "potrafić": 10,
+    "papa": 9,
+    "do": 3,
+    "widzenie": 14,
+    "pozdro": 11,
+    "jak": 8,
+    "dostać": 4,
+    "się": 12,
+    "dziekanat": 5,
+    "gdzie": 6,
+    "być": 0,
+    "to": 13
+  },
+  "intent": {
+    "greet": 2,
+    "goodbye": 1,
+    "faq_question": 0
+  },
+  "response": null,
+  "action_name": {
+    "action_listen": 6,
+    "action_restart": 7,
+    "action_session_start": 9,
+    "action_default_fallback": 4,
+    "action_deactivate_loop": 1,
+    "action_revert_fallback_events": 8,
+    "action_default_ask_affirmation": 2,
+    "action_default_ask_rephrase": 3,
+    "action_two_stage_fallback": 10,
+    "action_unlikely_intent": 11,
+    "action_back": 0,
+    "action_extract_slots": 5,
+    "utter_goodbye": 12,
+    "utter_greet": 13
+  },
+  "action_text": null,
+  "intent_response_key": null
+}

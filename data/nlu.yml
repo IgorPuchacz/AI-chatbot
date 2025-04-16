@@ -1,0 +1,33 @@
+version: "3.1"
+
+nlu:
+- intent: greet
+  examples: |
+    - Hejka
+    - Witam
+    - Cześć, co potrafisz?
+    - Co potrafisz?
+
+- intent: goodbye
+  examples: |
+    - Papa
+    - Do widzenia
+    - Pozdro
+
+- intent: ask_question
+  examples: |
+    - Jak mogę się zapisać na studia?
+    - Co powinno być zawarte w karcie przedmiotu?
+    - Gdzie mogę zgłosić brak karty przedmiotu?
+    - Ile wynosi opłata za powtarzanie semestru?
+    - Jakie są godziny otwarcia dziekanatu?
+    - Do kogo mogę złożyć wniosek o urlop dziekański?
+    - Czy mogę studiować dwa kierunki jednocześnie?
+    - Jak wygląda proces rejestracji na przedmioty?
+    - Gdzie mogę znaleźć plan zajęć?
+    - Co zrobić w przypadku kolizji terminów egzaminów?
+    - Jak ubiegać się o stypendium socjalne?
+    - Kiedy mogę odebrać legitymację studencką?
+    - Czy istnieje minimalny próg zaliczenia przedmiotu?
+    - Jak mogę zgłosić rezygnację ze studiów?
+    - Jak przebiega proces składania pracy dyplomowej?
